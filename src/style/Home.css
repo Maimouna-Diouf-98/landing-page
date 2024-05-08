@@ -1,0 +1,41 @@
+.home{
+    background-image: url('../img/2.jpeg');
+    background-repeat: none;
+    background-size: cover;
+    height: 700px;
+   
+   
+}
+.home-container {
+    height: 700px;
+    z-index: 1;
+    position: relative;
+}
+
+.h3-home, .title{
+  
+  color: transparent;
+  -webkit-text-stroke:  2px #CCAEA4 ;
+    -webkit-text-stroke:  2px #CCAEA4 ;
+    animation:  bounceText 1s ease-in-out infinite alternate, changeColor 2s infinite; 
+}
+@keyframes bounceText {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  @keyframes changeColor {
+    0% {
+      color: #CE6A6B
+    }
+    50% {
+      color: #EBACA2;
+    }
+    100% {
+      color: #E8D5CC; 
+    }
+  }

@@ -1,0 +1,29 @@
+.secondaire{
+    background-color: #CCAEA4 ;
+    width: 100%;
+   
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.absolute-img{
+
+border: 20px solid #fff;
+border-radius: 30px;
+
+
+}
+.img-phone{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #fff !important;
+}
+.hr{
+    width: 70%;
+   border: 2px solid #fff;
+    color: WHITE;
+}
+.img-contact{
+    width: 50px;
+    height: 50px; 
+}

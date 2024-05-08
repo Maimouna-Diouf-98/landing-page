@@ -1,0 +1,29 @@
+
+.navbar-brand{ 
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color:#CCAEA4 ;
+}
+
+.navbar-nav .nav-item{
+    padding-right: 60px;
+    font-weight: 600;
+}
+.navbar-nav .nav-item .nav-link {
+    color: black !important; 
+    
+}
+.navbar-toggler,i{
+    color:#CCAEA4 !important;
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: #CCAEA4  !important;
+}
+.navbar-nav .nav-item .active{
+    color: #CCAEA4 !important;
+    transition: 0.3s color ;
+}
