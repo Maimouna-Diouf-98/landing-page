@@ -7,7 +7,7 @@ function Business() {
        <section className="">
         
         <div className="row ">
-            <h1 className="bussnes-title text-center fs-1  ">
+            <h1 className="bussnes-title text-uppercase text-center fs-1  ">
             Mes business
         </h1>
             <div className="col-md-6 col-lg-6  col-sm-6  ">
