@@ -32,7 +32,7 @@ function Apropos() {
                 <p className="para-2 pt-3 fs-5">
                   En dehors de la musique et des etudes, j'entreprend et j'ai developpé deux petit business que s'essaye de fleurir. <br /> <br />
                   <span className='flaw'> Flawless style</span>
-                  <br /><span className='fs-4'>et</span><br />
+                  <br /><span className='fs-4'>ET</span><br />
                   <span className='bymos'>Bymos Housing </span>
               </p>
 
